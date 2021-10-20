@@ -1,6 +1,6 @@
-# gVisor Memory Subsystem Performance Improvement (WIP)
+# Improving gVisor Memory Subsystem Performance
 
-This is a course project in progress.
+This is a [course](https://cseweb.ucsd.edu/~yiying/cse291j-winter20/) project. See our [final report](final-report.pdf). Read on if you would like to reproduce our results.
 
 ## Environment Setup
 
